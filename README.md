@@ -84,7 +84,7 @@ Install dependencies before running the notebook:
 pip install numpy pandas matplotlib
 Ensure m0b_optimizer.py is located in the same folder as your notebook.
 
-## How to Run:
+### How to Run:
 **Clone this project** : m
 git clone https://github.com/<your-username>/SupervisedLearning_FarmingTemperature.git
 cd SupervisedLearning_FarmingTemperature
@@ -95,7 +95,7 @@ jupyter notebook SupervisedLearning_FarmingTemperature.ipynb
 **Run all cells:**
 Follow the cell order to train the model and view results.
 
-## **References**
+### **References**
 Microsoft Learn — Machine Learning for Beginners : https://github.com/microsoft/ML-For-Beginners?utm_source=chatgpt.com
 Scikit-Learn Linear Models - https://scikit-learn.org/stable/modules/linear_model.html
 Gradient Descent Explained - https://en.wikipedia.org/wiki/Gradient_descent
