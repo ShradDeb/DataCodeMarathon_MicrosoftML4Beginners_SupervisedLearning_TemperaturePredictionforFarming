@@ -83,9 +83,10 @@ Install dependencies before running the notebook:
 ```bash
 pip install numpy pandas matplotlib
 Ensure m0b_optimizer.py is located in the same folder as your notebook.
+```
 
 ### How to Run:
-**Clone this project** : m
+**Clone this project** : 
 git clone https://github.com/<your-username>/SupervisedLearning_FarmingTemperature.git
 cd SupervisedLearning_FarmingTemperature
 
